@@ -2,8 +2,7 @@ name: Release candidate
 
 on:
   push:
-    branches:
-    master
+    branches: master
   watch:
     types: started
 
