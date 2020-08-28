@@ -3,7 +3,7 @@ name: Release candidate
 on:
   push:
     branches:
-    - 'rc/**'
+    master
   watch:
     types: started
 
